@@ -2,5 +2,5 @@
 	path = helperj
 	url = https://github.com/rbtLong/helperj.git
 [submodule "rbtlongj-ui"]
-	path = ui
+	path = rbtlongj-ui
 	url = https://github.com/rbtLong/rbtlongj-ui.git
