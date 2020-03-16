@@ -9,6 +9,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/ui" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/rbtlongj-ui" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/rbtlongj-ui/_angular/rbtlongj-ui/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/rbtlongj-ui/_angular/rbtlongj-ui/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/rbtlongj-ui/angular/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/rbtlongj-ui/angular/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
